@@ -1,5 +1,5 @@
-//////// What am I trying to do???
-//////// What is my name?  (CST 112; today's date?)
+//Making a scene 
+//Joseph Sciorilli  (CST 112; 9/9/2015)
 
 //// GLOBALS:  coordinates, speed, etc.
 float x, y;       // Position of creature.
